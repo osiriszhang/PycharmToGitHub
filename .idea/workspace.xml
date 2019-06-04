@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="012c80b8-8e8f-47c9-81f8-6346945e3d68" name="Default Changelist" comment="" />
+    <list default="true" id="012c80b8-8e8f-47c9-81f8-6346945e3d68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello world.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +37,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello world.py" />
         <option value="$PROJECT_DIR$/pdtest.py" />
+        <option value="$PROJECT_DIR$/hello world.py" />
       </list>
     </option>
   </component>
@@ -86,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pdtest">
+  <component name="RunManager" selected="Python.hello world">
     <configuration name="hello world" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,8 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pdtest" />
         <item itemvalue="Python.hello world" />
+        <item itemvalue="Python.pdtest" />
       </list>
     </recent_temporary>
   </component>
@@ -151,12 +153,20 @@
       <workItem from="1559181476484" duration="632000" />
       <workItem from="1559182131580" duration="5411000" />
       <workItem from="1559267974977" duration="610000" />
-      <workItem from="1559619802456" duration="2064000" />
+      <workItem from="1559619802456" duration="3352000" />
     </task>
+    <task id="LOCAL-00001" summary="测试上传第一次">
+      <created>1559623577461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559623577461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8717000" />
+    <option name="totallyTimeSpent" value="10005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
@@ -166,7 +176,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33787465" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3368984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,9 +220,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试上传第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试上传第一次" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_workspace$pdtest.coverage" NAME="pdtest Coverage Results" MODIFIED="1559203520559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_workspace$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1559182377861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_workspace$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1559624912958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../Anaconda3/Scripts/jupyter-notebook-script.py">
